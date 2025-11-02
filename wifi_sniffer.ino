@@ -4,6 +4,7 @@ To use the sniffer,
 you just need to have the Arduino IDE 
 (or similar that has a serial monitor)
 to be able to use the sniffer.
+(Serial bald rate is 115200)
 */
 
 #include <esp_wifi.h>
