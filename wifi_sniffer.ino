@@ -1,3 +1,11 @@
+/*
+This code was programmed by: Lorenzo Egidio.
+To use the sniffer,
+you just need to have the Arduino IDE 
+(or similar that has a serial monitor)
+to be able to use the sniffer.
+*/
+
 #include <esp_wifi.h>
 #include <WiFi.h>
 #include <Preferences.h>
